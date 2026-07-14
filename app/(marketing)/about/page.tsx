@@ -57,13 +57,13 @@ export default function AboutPage() {
             </h2>
             <div className="mt-8 space-y-6 text-pretty text-lg leading-relaxed text-ink-muted">
               <p>
-                Sole-arium began with a simple question: <strong>why do so many people live with foot pain and think it's normal?</strong>
+                Sole-arium began with a simple question: <strong>why do so many people live with foot pain and think it&apos;s normal?</strong>
               </p>
               <p>
-                The answer wasn't found in new materials or trend forecasts. It was found in the way people move. Every foot is different. Every stride is different. Yet most footwear is still designed for an average that doesn't truly exist.
+                The answer wasn&apos;t found in new materials or trend forecasts. It was found in the way people move. Every foot is different. Every stride is different. Yet most footwear is still designed for an average that doesn&apos;t truly exist.
               </p>
               <p>
-                That's why every Sole-arium journey begins with understanding you. Through a movement assessment, we analyse how you walk, stand and distribute pressure across your feet. That data becomes the foundation of footwear designed exclusively for your biomechanics.
+                That&apos;s why every Sole-arium journey begins with understanding you. Through a movement assessment, we analyse how you walk, stand and distribute pressure across your feet. That data becomes the foundation of footwear designed exclusively for your biomechanics.
               </p>
               <p>
                 Our ambition goes beyond comfort. We want to help people move better, reduce unnecessary strain and care for their feet before small discomforts become lifelong problems.
